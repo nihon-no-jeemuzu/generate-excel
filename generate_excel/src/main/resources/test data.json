@@ -1,0 +1,34 @@
+[
+{
+   "Series_reference": "ECTA.S19A1",
+   "Period": 2001.03,
+   "Data_value": 2462.5,
+   "Suppressed": "",
+   "STATUS": "F",
+   "UNITS": "Dollars",
+   "Magnitude": 6,
+   "Subject": "Electronic Card Transactions (ANZSIC06) - ECT",
+   "Group": "Total values - Electronic card transactions A/S/T by division",
+   "Series_title_1": "Actual",
+   "Series_title_2": "RTS total industries",
+   "Series_title_3": "",
+   "Series_title_4": "",
+   "Series_title_5": ""
+ },
+ {
+   "Series_reference": "ECTA.S19A1",
+   "Period": 2002.03,
+   "Data_value": 17177.2,
+   "Suppressed": "",
+   "STATUS": "F",
+   "UNITS": "Dollars",
+   "Magnitude": 6,
+   "Subject": "Electronic Card Transactions (ANZSIC06) - ECT",
+   "Group": "Total values - Electronic card transactions A/S/T by division",
+   "Series_title_1": "Actual",
+   "Series_title_2": "RTS total industries",
+   "Series_title_3": "",
+   "Series_title_4": "",
+   "Series_title_5": ""
+ }
+]
